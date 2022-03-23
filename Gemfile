@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'bundler', '~> 2.1.4'
 gem 'bootstrap-sass',   '3.4.1'
 gem 'bcrypt',         '3.1.13'
+gem 'faker',          '2.1.2'
+gem 'will_paginate',           '3.1.8'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
